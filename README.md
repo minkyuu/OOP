@@ -1,4 +1,4 @@
-< This repo is for practicing "OOP" >
+< "OOP" practicing repo > (2021.08.03 ~ )
 
 --- 
 
